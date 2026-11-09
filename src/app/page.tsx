@@ -11,6 +11,7 @@ import Recommendations from "@/components/Recommendations";
 import SectionBackground from "@/components/SectionBackground";
 import WeddingGallery from "@/components/WeddingGallery";
 import { wedding } from "@/lib/wedding";
+import Link from "next/link";
 
 function SectionTitle({ kicker, title, subtitle }: { kicker: string; title: string; subtitle?: string }) {
   return <div className="mb-10 text-center">
@@ -140,7 +141,7 @@ export default function Home() {
     </section>
     <footer className="luxury-footer px-5 py-10 text-center">
       <div className="mb-5 flex flex-wrap items-center justify-center gap-3">
-        <a href="#guestbook" className="btn-primary">เข้าดูคำอวยพร ♡</a>
+        <a href="#" className="btn-primary">เข้าดูคำอวยพร ♡</a>
         <a href="/admin/login" className="rounded-full border border-white/80 bg-white/75 px-3 py-2 text-[11px] text-[#9a8b7e] shadow-sm transition hover:bg-white hover:text-[#789bc5]">Admin</a>
       </div>
       <p className="text-xs text-[#9a8b7e]">Made with love · Parichart & Monmanat</p>
