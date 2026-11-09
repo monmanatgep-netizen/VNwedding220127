@@ -1,0 +1,20 @@
+[debug] [2026-11-03T17:38:09.959Z] ----------------------------------------------------------------------
+[debug] [2026-11-03T17:38:09.964Z] Command:       /Users/monmanatp/.nvm/versions/node/v22.23.4/bin/node /Users/monmanatp/.nvm/versions/node/v22.23.4/bin/firebase init
+[debug] [2026-11-03T17:38:09.964Z] CLI Version:   15.34.2
+[debug] [2026-11-03T17:38:09.965Z] Platform:      darwin
+[debug] [2026-11-03T17:38:09.965Z] Node Version:  v22.23.4
+[debug] [2026-11-03T17:38:09.965Z] Detected Agent: unknown
+[debug] [2026-11-03T17:38:09.965Z] Time:          Wed Nov 04 2026 00:38:09 GMT+0700 (Indochina Time)
+[debug] [2026-11-03T17:38:09.965Z] ----------------------------------------------------------------------
+[debug] 
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  /Users/monmanatp/Downloads/parichart-monmanat-wedding4
+
